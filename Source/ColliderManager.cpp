@@ -88,7 +88,7 @@ void ColliderManager::DeleteAllCollider()
         // ƒŠƒXƒg‚©‚çíœ
         itr = mColliderList.erase(itr);
         itr++;
-
+        //
     }
     DeleteAllColliderIfNeeded();
 }
